@@ -12,7 +12,7 @@
 
 > 如果你是第一次来，可以从下面几篇开始：
 
--- [《集体主义的破产：Z 世代的精神流亡》](/2026/01/31/z-shi-dai-jing-shen-liu-wang.html)
+-- [《集体主义的破产：Z 世代的精神流亡》](https://github.com/huo241/Obuilt-/commit/b5e551908316ef0e8681637508fa1b5ea0009c9c)
   关于一代人的处境与精神状态的思考
 
 
