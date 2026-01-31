@@ -1,20 +1,11 @@
----
-layout: none
-title: Obuilt 自成集
----
-
 <div align="center">
-
-# Obuilt 自成集
-
-**一个安静的博客，记录一些无用但有趣的思考。**
-
-<p>
-  <a href="/about/">关于我</a> ·
-  <a href="/archive/">归档</a> ·
-  <a href="https://github.com/huo241/Obuilt-">GitHub</a>
-</p>
-
+  <h1>Obuilt 自成集</h1>
+  <p><strong>一个安静的博客，记录一些无用但有趣的思考。</strong></p>
+  <p>
+    <a href="/about/">关于我</a> ·
+    <a href="/archive/">归档</a> ·
+    <a href="https://github.com/huo241/Obuilt-">GitHub</a>
+  </p>
 </div>
 
 ---
