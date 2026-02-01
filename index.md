@@ -2,10 +2,14 @@
 layout: default
 title: Obuilt 自成集
 ---
-
 <div align="center">
   <h1>Obuilt 自成集</h1>
   <p><strong>一个安静的博客，记录一些无用但有趣的思考。</strong></p>
+
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=huo241.Obuilt" />
+  </p>
+
   <p>
     <a href="/about/">关于我</a> ·
     <a href="/archive/">归档</a> ·
@@ -13,7 +17,7 @@ title: Obuilt 自成集
   </p>
 </div>
 
-<br/>
+
 
 ## 👋 这里会写什么？
 
