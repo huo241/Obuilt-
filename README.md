@@ -43,4 +43,5 @@
 ## 🔗 相关链接
 
 - GitHub 主页：https://github.com/huo241
+- 博客地址：https://obuilt.windfore.com.cn/
 - 博客仓库：本仓库
