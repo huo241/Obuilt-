@@ -16,3 +16,25 @@
   margin-left: 6px;
   vertical-align: middle;
 }
+.site-footer-social {
+  margin-top: 8px;
+  text-align: center;
+}
+
+.site-footer-social .social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.site-footer-social .social-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.site-footer-social .social-icon {
+  font-size: 16px;
+}
