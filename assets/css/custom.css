@@ -9,3 +9,14 @@
   letter-spacing: 0.04em;
   text-align: center;
 }
+.site-footer-visitors {
+  margin-top: 12px;
+  text-align: center;
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+.site-footer-visitors img {
+  margin-left: 6px;
+  vertical-align: middle;
+}
