@@ -37,9 +37,3 @@ title: Obuilt 自成集
 - {{ post.date | date: "%Y-%m-%d" }} · [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-<hr/>
-
-<div style="text-align:center; font-size:12px; color:#999; margin-top:40px;">
-  <span>👀 Page Views</span><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=huo241.Obuilt" />
-</div>
