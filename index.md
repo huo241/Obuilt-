@@ -7,7 +7,7 @@ title: Obuilt 自成集
   <p><strong>一个安静的博客，记录一些无用但有趣的思考。</strong></p>
 
   <p>
-    <img width="1504" height="748" alt="image" src="https://github.com/user-attachments/assets/cba092a0-620d-4bd0-8cf6-5b717fb6202e" />
+    <small>👀 Page Views</small><br/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=huo241.Obuilt" />
   </p>
 
