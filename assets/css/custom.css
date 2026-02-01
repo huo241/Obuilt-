@@ -1,14 +1,10 @@
 .page-title {
-  font-family:
-    "Inter",
-    "Noto Sans SC",
-    "Source Han Sans SC",
-    "PingFang SC",
-    sans-serif;
-  font-weight: 500;
-  letter-spacing: 0.04em;
+  font-family: "STSong", "SimSun", "Songti SC", "Noto Serif SC", serif;
+  font-weight: 400;
+  letter-spacing: 0.08em;
   text-align: center;
 }
+
 .site-footer-visitors {
   margin-top: 12px;
   text-align: center;
