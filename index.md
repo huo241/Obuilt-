@@ -39,8 +39,7 @@ title: Obuilt 自成集
 
 <hr/>
 
-<p align="center" style="opacity:.7;">
-  <small>👀 Page Views</small><br/>
+<div style="text-align:center; font-size:12px; color:#999; margin-top:40px;">
+  <span>👀 Page Views</span><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=huo241.Obuilt" />
-</p>
-
+</div>
