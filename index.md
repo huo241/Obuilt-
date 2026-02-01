@@ -7,11 +7,6 @@ title: Obuilt 自成集
   <p><strong>一个安静的博客，记录一些无用但有趣的思考。</strong></p>
 
   <p>
-    <small>👀 Page Views</small><br/>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=huo241.Obuilt" />
-  </p>
-
-  <p>
     <a href="/about/">关于我</a> ·
     <a href="/archive/">归档</a> ·
     <a href="https://github.com/huo241/Obuilt-">GitHub</a>
@@ -41,3 +36,11 @@ title: Obuilt 自成集
 {% for post in site.posts %}
 - {{ post.date | date: "%Y-%m-%d" }} · [{{ post.title }}]({{ post.url }})
 {% endfor %}
+
+<hr/>
+
+<p align="center" style="opacity:.7;">
+  <small>👀 Page Views</small><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=huo241.Obuilt" />
+</p>
+
