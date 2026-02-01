@@ -3,7 +3,7 @@ layout: default
 title: Obuilt 自成集
 ---
 <div align="center">
-  <h1>Obuilt 自成集</h1>
+  <h1 class="page-title">Obuilt 自成集</h1>
   <p><strong>一个安静的博客，记录一些无用但有趣的思考。</strong></p>
 
   <p>
