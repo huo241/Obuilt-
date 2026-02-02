@@ -28,13 +28,15 @@ date: 2026-02-02
 
 
 这<font color="#2DC26B">多屏幕摇臂+超简单的电线收纳+洞洞板背景+电动可升降桌面</font>的组合，有哪个小男生小女生能不爱？反正我是当场心动了，但是这种心动仅仅持续到我看见价格的前一秒。
-![我的书房改造-1](https://github.com/user-attachments/assets/4054e4e7-f113-4be3-954a-a3dad349e7ad)
+<img width="1280" height="750" alt="我的书房改造-1" src="https://github.com/user-attachments/assets/5a31147e-cfbb-4f56-a1f0-c1f229d5c2ab" />
+
 
 
 **哈哈，打扰了哈**
 
 当然这只是单桌的价格，那把椅子的价钱还得另算。
-![我的书房改造-2](https://github.com/user-attachments/assets/c7355900-7c2b-4954-ada3-88b61c8c7225)
+
+<img width="1280" height="750" alt="我的书房改造-2" src="https://github.com/user-attachments/assets/a98b03bd-ee7a-48f1-8353-66a9ec5aefef" />
 
 
 **<font color="#2DC26B">心动归心动，钱包它是有数的。没实力硬心动，很容易变成心痛······</font>**
