@@ -1,10 +1,11 @@
-<img width="645" height="860" alt="宜家的书房套装" src="https://github.com/user-attachments/assets/0d15eacc-9de3-4d53-906b-4a02b385b13d" />---
+---
 title: 我的书房改造
 date: 2026-02-02
 ---
 
 这是改造开始前我的书桌的样子
-![](/assets/images/改造开始前的样子_.jpg)
+![改造开始前的样子](https://github.com/user-attachments/assets/d4b993d4-608e-46b5-81ef-c8a24722b1c8)
+
 **<font color="#2DC26B">由于实在没有找到近期拍摄的图片，所以这里采用的是2024年夏天拍摄的图片</font>**
 这时的书桌显得十分压抑、沉闷，由于上方横梁和木板的存在，我无法利用增高架来加高显示器位置，这很难受。（佬友们懂得，这样的姿势看屏幕久了容易得颈椎病）
 ![尺寸](https://github.com/user-attachments/assets/2e8a76c4-d93b-4cef-b4c2-a0f2c5b74aa5)
@@ -111,9 +112,11 @@ ______
 <img width="825" height="939" alt="显示器支架订单界面" src="https://github.com/user-attachments/assets/169e23c1-0255-4178-a377-62cd1c566913" />
 
 这个看起来不错，就你了。
+
 <img width="825" height="939" alt="装机械臂" src="https://github.com/user-attachments/assets/3ca0080f-fbb3-49f8-ae26-12b968af1105" />
 
 装起来还行，不算太难。加上老爹之前安装洞洞板的时候螺丝打的紧，位置也很合适，所以安装的很成功。我又购买了一些配件，将iPad和电纸书都上了洞洞板，书桌整体的观感已经好了很多。
+
 <img width="1085" height="939" alt="我的书房改造-6" src="https://github.com/user-attachments/assets/3658a621-de32-4756-852e-5d0a9dc1826e" />
 
 现在该想想接下来怎么搭配了。
