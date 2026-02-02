@@ -1,36 +1,41 @@
----
+<img width="645" height="860" alt="宜家的书房套装" src="https://github.com/user-attachments/assets/0d15eacc-9de3-4d53-906b-4a02b385b13d" />---
 title: 我的书房改造
 date: 2026-02-02
 ---
 
 这是改造开始前我的书桌的样子
-![[改造开始前的样子.jpg]]
+![](/assets/images/改造开始前的样子_.jpg)
 **<font color="#2DC26B">由于实在没有找到近期拍摄的图片，所以这里采用的是2024年夏天拍摄的图片</font>**
 这时的书桌显得十分压抑、沉闷，由于上方横梁和木板的存在，我无法利用增高架来加高显示器位置，这很难受。（佬友们懂得，这样的姿势看屏幕久了容易得颈椎病）
+![尺寸](https://github.com/user-attachments/assets/2e8a76c4-d93b-4cef-b4c2-a0f2c5b74aa5)
 
-![[尺寸.jpg]]
+
 我打算定制一块洞洞板，然后用原来固定横梁的螺丝口固定住洞洞板，当做背板，这样可以充    分利用桌面上方的纵向空间
 **起因是几个月以前我在逛宜家的时候发现了这么一张桌子。**
-![[宜家的桌子.png]]
+<img width="645" height="860" alt="宜家的桌子" src="https://github.com/user-attachments/assets/7030b918-4d69-4139-b995-cca19d38d870" />
+
 
 
 > [!tip]
 > （找不到当时拍的图了，所以在网上找了一张，侵权可删）
+<img width="645" height="860" alt="宜家的书房套装" src="https://github.com/user-attachments/assets/3c7b0ae4-a729-4b8d-9100-59232049a64e" />
 
-![[宜家的书房套装.png]]
+
 
 > [!tip]
 > 当时我看见的完全体长这样
 
 
 这<font color="#2DC26B">多屏幕摇臂+超简单的电线收纳+洞洞板背景+电动可升降桌面</font>的组合，有哪个小男生小女生能不爱？反正我是当场心动了，但是这种心动仅仅持续到我看见价格的前一秒。
+![我的书房改造-1](https://github.com/user-attachments/assets/4054e4e7-f113-4be3-954a-a3dad349e7ad)
 
-![[我的书房改造-1.png]]
+
 **哈哈，打扰了哈**
 
 当然这只是单桌的价格，那把椅子的价钱还得另算。
+![我的书房改造-2](https://github.com/user-attachments/assets/c7355900-7c2b-4954-ada3-88b61c8c7225)
 
-![[我的书房改造-2.png]]
+
 **<font color="#2DC26B">心动归心动，钱包它是有数的。没实力硬心动，很容易变成心痛······</font>**
 
 **但俗话又说，如果你想要某样东西，那么一个月以后，它就必定会出现在你眼前。**（我不知道是哪里的俗话）
@@ -46,7 +51,8 @@ date: 2026-02-02
 于是我想自己进行旧书桌的改造。
 
 我把原先横亘在显示屏上方的木板拆下来。这块木板本身是没有被固定住的，简单搭在梁上，所以我很轻松地将它取了下来，然后放在地上。
-![[木板放在地上.png]]
+<img width="815" height="464" alt="木板放在地上" src="https://github.com/user-attachments/assets/02c95e69-69d2-472c-a50a-24a960601b1c" />
+
 > <font color="#2DC26B">木板上那个白色的块状物是我以前粘贴的磁吸台灯</font>
 
 接着要拆卸横梁。横梁其实就是一个长方体铁棍，左右两端开了孔，用6号螺丝可以把它固定在框架上。我用了小内六角扳手把螺丝卸下来，接着将横梁拿下来。
@@ -55,7 +61,8 @@ date: 2026-02-02
 ![[我的书房改造-5.png]]
 
 于是我购买了一个显示器增高架。 35块钱，质量还挺好。
-![[我的书房改造.jpg]] 
+![我的书房改造-5](https://github.com/user-attachments/assets/6298956a-5184-4716-921d-259e430adb5a)
+
 在被低头看屏幕导致的劳累困扰一年以后，我终于解决了这个问题。
 
 现在还需要一个洞洞板
@@ -70,7 +77,8 @@ date: 2026-02-02
 
 老爹上大学的时候学过机械制图，现在虽然忘了不少，但是画画洞洞板这种小东西还是不在话下。
 
- ![[老爹画的图.jpg]]
+![老爹画的图](https://github.com/user-attachments/assets/c8b1c6d9-e89f-46a6-902c-c44a590bbe0e)
+
 > [!tip]
 >  我后来才发现有一个错别字哈哈
 
@@ -85,22 +93,27 @@ date: 2026-02-02
 现在就等到货看看什么样罢
 
 现在，我的桌面是这样的：
-![[我的书房改造-5.jpg]]
+![我的书房改造-5](https://github.com/user-attachments/assets/c57902be-aac4-4fa3-a60e-628d3dfd8f83)
+
 ______
 经过漫长的等待，洞洞板它来了。
 
 
-![[我的书房改造-4.png]]
+<img width="825" height="939" alt="我的书房改造-4" src="https://github.com/user-attachments/assets/6ed62e15-844a-42fc-ad69-e9b360ef1a8b" />
+
 洞洞板瑕不掩瑜，我很喜欢，在老爹的帮忙下我成功将其安装在桌子背后两个立柱之间，现在再对比一下我一开始在宜家看到的那款桌子，是不是有点像了？
-![[我的书房改造-3.png]]
+<img width="645" height="860" alt="我的书房改造-3" src="https://github.com/user-attachments/assets/7cf85791-1e77-4338-8bad-4adafe230476" />
+
 还缺一个机械摇臂，用来支撑显示器，增高架上就可以摆放一个桌面充电站之类的桌搭了。
 
 那么，下单罢。
 
-![[显示器支架订单界面.png]]
-这个看起来不错，就你了。
-![[装机械臂.png]]
-装起来还行，不算太难。加上老爹之前安装洞洞板的时候螺丝打的紧，位置也很合适，所以安装的很成功。我又购买了一些配件，将iPad和电纸书都上了洞洞板，书桌整体的观感已经好了很多。
+<img width="825" height="939" alt="显示器支架订单界面" src="https://github.com/user-attachments/assets/169e23c1-0255-4178-a377-62cd1c566913" />
 
-![[我的书房改造-6.png]]
+这个看起来不错，就你了。
+<img width="825" height="939" alt="装机械臂" src="https://github.com/user-attachments/assets/3ca0080f-fbb3-49f8-ae26-12b968af1105" />
+
+装起来还行，不算太难。加上老爹之前安装洞洞板的时候螺丝打的紧，位置也很合适，所以安装的很成功。我又购买了一些配件，将iPad和电纸书都上了洞洞板，书桌整体的观感已经好了很多。
+<img width="1085" height="939" alt="我的书房改造-6" src="https://github.com/user-attachments/assets/3658a621-de32-4756-852e-5d0a9dc1826e" />
+
 现在该想想接下来怎么搭配了。
