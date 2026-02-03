@@ -32,6 +32,9 @@ title: Obuilt 自成集
 - {{ post.date | date: "%Y-%m-%d" }} · [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
+💬 留言板：👉 [点这里](https://github.com/huo241/Obuilt-/discussions)
+
+
 ## 📚 全部文章
 {% for post in site.posts %}
 - {{ post.date | date: "%Y-%m-%d" }} · [{{ post.title }}]({{ post.url }})
