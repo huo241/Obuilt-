@@ -17,4 +17,4 @@ permalink: /about/
 ## 💬 留言
 
 欢迎来这里给我留言 👇  
-👉 [点击进入留言板](https://github.com/huo241/Obuilt-/discussions)
+👉 [点击进入留言板](https://github.com/huo241/Obuilt-/discussions/1)
