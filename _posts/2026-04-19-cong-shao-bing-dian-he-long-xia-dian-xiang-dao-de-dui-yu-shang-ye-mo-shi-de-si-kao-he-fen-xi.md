@@ -1,6 +1,7 @@
 ---
 title: 从烧饼店和龙虾店想到的，对于商业模式的思考和分析
 date: 2026-04-19
+permalink: /cong-shao-bing-dian-he-long-xia-dian-xiang-dao-de-dui-yu-shang-ye-mo-shi-de-si-kao-he-fen-xi/
 ---
 
 我住的社区有一家龙虾店，一家烧饼店，围绕着这两家店，我想了一些东西。
