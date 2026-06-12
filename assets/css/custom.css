@@ -1,22 +1,22 @@
 /* 苹果极简风格 - 思源宋体 */
 
-/* 导入思源宋体和优雅的英文衬线字体 */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
+/* 导入思源宋体和装饰性字体 */
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
 
-/* 网站标题字体 - 优雅统一 */
+/* 网站标题字体 - Party LET风格 */
 .site-title {
-  font-family: 'Playfair Display', 'Noto Serif SC', 'Songti SC', 'STSong', serif !important;
+  font-family: 'Party LET', 'UnifrakturMaguntia', 'Noto Serif SC', 'Songti SC', 'STSong', cursive, serif !important;
   font-size: 1.6rem !important;
   letter-spacing: 0.08em !important;
-  font-weight: 600 !important;
+  font-weight: normal !important;
 }
 
-/* 导航链接字体 - 优雅统一 */
+/* 导航链接字体 - Party LET风格 */
 .site-nav .page-link {
-  font-family: 'Playfair Display', 'Noto Serif SC', 'Songti SC', 'STSong', serif !important;
+  font-family: 'Party LET', 'UnifrakturMaguntia', 'Noto Serif SC', 'Songti SC', 'STSong', cursive, serif !important;
   font-size: 1.2rem !important;
   letter-spacing: 0.05em !important;
-  font-weight: 500 !important;
+  font-weight: normal !important;
 }
 
 /* 响应式调整标题和导航大小 */
