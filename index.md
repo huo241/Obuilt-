@@ -39,7 +39,7 @@ title: Obuilt 自成集
 <div class="section-card">
   <h2>📌 精选阅读</h2>
   <div class="featured-post">
-    ⭐ <a href="/z-shi-dai-jing-shen-liu-wang/">集体主义的破产：Z 世代的精神流亡</a>
+    ⭐ <a href="/ai-jiang-qu-dai-jiao-shi/">AI将取代教师</a>
   </div>
   <div class="featured-post">
     ⭐ <a href="/cong-shao-bing-dian-he-long-xia-dian-xiang-dao-de-dui-yu-shang-ye-mo-shi-de-si-kao-he-fen-xi/">从烧饼店和龙虾店想到的，对于商业模式的思考和分析</a>

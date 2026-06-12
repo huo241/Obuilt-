@@ -12,8 +12,8 @@
 
 > 如果你是第一次来，可以从下面几篇开始：
 
--- [《集体主义的破产：Z 世代的精神流亡》](_posts/2026-01-31-z-shi-dai-jing-shen-liu-wang.md)
-  关于一代人的处境与精神状态的思考
+-- [《AI将取代教师》](_posts/2026-06-12-ai-jiang-qu-dai-jiao-shi.md)
+  AI取代传统应试教师，只是时间问题
 
 -- [《从烧饼店和龙虾店想到的，对于商业模式的思考和分析》](_posts/2026-04-19-cong-shao-bing-dian-he-long-xia-dian-xiang-dao-de-dui-yu-shang-ye-mo-shi-de-si-kao-he-fen-xi.md)
   短期收割与长期复利模式的经典对比
