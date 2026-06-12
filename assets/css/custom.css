@@ -1,22 +1,22 @@
 /* 苹果极简风格 - 思源宋体 */
 
-/* 导入思源宋体 */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
+/* 导入思源宋体和优雅的英文衬线字体 */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
 
-/* 网站标题装饰性字体 */
+/* 网站标题字体 - 优雅统一 */
 .site-title {
-  font-family: 'Party LET', 'UnifrakturMaguntia', 'Chalkduster', 'Brush Script MT', 'Comic Sans MS', cursive !important;
+  font-family: 'Playfair Display', 'Noto Serif SC', 'Songti SC', 'STSong', serif !important;
   font-size: 1.6rem !important;
   letter-spacing: 0.08em !important;
-  font-weight: normal !important;
+  font-weight: 600 !important;
 }
 
-/* 导航链接装饰性字体 */
+/* 导航链接字体 - 优雅统一 */
 .site-nav .page-link {
-  font-family: 'Party LET', 'UnifrakturMaguntia', 'Chalkduster', 'Brush Script MT', 'Comic Sans MS', cursive !important;
+  font-family: 'Playfair Display', 'Noto Serif SC', 'Songti SC', 'STSong', serif !important;
   font-size: 1.2rem !important;
   letter-spacing: 0.05em !important;
-  font-weight: normal !important;
+  font-weight: 500 !important;
 }
 
 /* 响应式调整标题和导航大小 */
