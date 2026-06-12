@@ -15,6 +15,9 @@
 -- [《集体主义的破产：Z 世代的精神流亡》](_posts/2026-01-31-z-shi-dai-jing-shen-liu-wang.md)
   关于一代人的处境与精神状态的思考
 
+-- [《从烧饼店和龙虾店想到的，对于商业模式的思考和分析》](_posts/2026-04-19-cong-shao-bing-dian-he-long-xia-dian-xiang-dao-de-dui-yu-shang-ye-mo-shi-de-si-kao-he-fen-xi.md)
+  短期收割与长期复利模式的经典对比
+
 
 ---
 
