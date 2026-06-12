@@ -152,7 +152,7 @@ a:hover {
 /* ==================== 英雄区域 ==================== */
 .hero-section {
   text-align: center !important;
-  padding: 4rem 1rem !important;
+  padding: 2.5rem 1rem !important;
   background-color: var(--bg-secondary) !important;
   color: var(--text-primary) !important;
   margin: -2rem -2rem 2rem -2rem !important;
@@ -168,28 +168,8 @@ a:hover {
 .hero-subtitle {
   font-size: 1.1rem !important;
   color: var(--text-secondary) !important;
-  margin-bottom: 2rem !important;
+  margin-bottom: 0 !important;
   font-weight: 400 !important;
-}
-
-.hero-links {
-  display: flex !important;
-  justify-content: center !important;
-  gap: 1.5rem !important;
-  flex-wrap: wrap !important;
-}
-
-.hero-link {
-  color: var(--accent-color) !important;
-  text-decoration: none !important;
-  font-size: 1rem !important;
-  font-weight: 400 !important;
-  transition: all 0.2s ease !important;
-}
-
-.hero-link:hover {
-  color: var(--accent-hover) !important;
-  text-decoration: underline !important;
 }
 
 /* ==================== 内容卡片 ==================== */
@@ -416,7 +396,7 @@ a:hover {
 
   .hero-section {
     margin: -1rem -1rem 1.5rem -1rem !important;
-    padding: 3rem 1rem !important;
+    padding: 2rem 1rem !important;
   }
 
   .page-title {

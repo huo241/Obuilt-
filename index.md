@@ -13,11 +13,6 @@ title: Obuilt 自成集
 <div class="hero-section">
   <h1 class="page-title">Obuilt 自成集</h1>
   <p class="hero-subtitle">一个安静的博客，记录一些无用但有趣的思考。</p>
-  <div class="hero-links">
-    <a href="/about/" class="hero-link">关于我</a>
-    <a href="/archive/" class="hero-link">归档</a>
-    <a href="https://github.com/huo241/Obuilt-" class="hero-link">GitHub</a>
-  </div>
 </div>
 
 <div class="section-card">
