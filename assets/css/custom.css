@@ -3,6 +3,21 @@
 /* 导入思源宋体 */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
 
+/* 网站标题装饰性字体 */
+.site-title {
+  font-family: 'Party LET', 'UnifrakturMaguntia', 'Chalkduster', 'Brush Script MT', 'Comic Sans MS', cursive !important;
+  font-size: 1.6rem !important;
+  letter-spacing: 0.08em !important;
+  font-weight: normal !important;
+}
+
+/* 响应式调整标题大小 */
+@media (max-width: 600px) {
+  .site-title {
+    font-size: 1.3rem !important;
+  }
+}
+
 /* ==================== 主题颜色变量 ==================== */
 :root {
   --bg-primary: #f5f5f7;
