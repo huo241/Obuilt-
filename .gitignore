@@ -1,0 +1,16 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+*.gem
+*.rbc
+Gemfile.lock
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store

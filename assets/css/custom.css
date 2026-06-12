@@ -1,44 +1,424 @@
-.page-title {
-  font-family: "STSong", "SimSun", "Songti SC", "Noto Serif SC", serif;
-  font-weight: 400;
-  letter-spacing: 0.08em;
-  text-align: center;
+/* 苹果极简风格 - 思源宋体 */
+
+/* 导入思源宋体 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
+
+/* ==================== 主题颜色变量 ==================== */
+:root {
+  --bg-primary: #f5f5f7;
+  --bg-secondary: #ffffff;
+  --text-primary: #1d1d1f;
+  --text-secondary: #6e6e73;
+  --text-muted: #86868b;
+  --border-color: #d2d2d7;
+  --accent-color: #0071e3;
+  --accent-hover: #0077ed;
+  --card-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  --hover-bg: #fbfbfd;
 }
 
+/* 原生主题（白色）- 默认 */
+[data-theme="light"] {
+  --bg-primary: #f5f5f7;
+  --bg-secondary: #ffffff;
+  --text-primary: #1d1d1f;
+  --text-secondary: #6e6e73;
+  --text-muted: #86868b;
+  --border-color: #d2d2d7;
+  --accent-color: #0071e3;
+  --accent-hover: #0077ed;
+  --card-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  --hover-bg: #fbfbfd;
+}
+
+/* 夜晚主题（黑色） */
+[data-theme="dark"] {
+  --bg-primary: #000000;
+  --bg-secondary: #1c1c1e;
+  --text-primary: #f5f5f7;
+  --text-secondary: #98989d;
+  --text-muted: #636366;
+  --border-color: #38383a;
+  --accent-color: #0a84ff;
+  --accent-hover: #409cff;
+  --card-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+  --hover-bg: #2c2c2e;
+}
+
+/* 护眼主题（米黄色） */
+[data-theme="eye-care"] {
+  --bg-primary: #f6f0e6;
+  --bg-secondary: #fffbf0;
+  --text-primary: #4a4a4a;
+  --text-secondary: #7a7a7a;
+  --text-muted: #9a9a9a;
+  --border-color: #e8dcc8;
+  --accent-color: #b8860b;
+  --accent-hover: #daa520;
+  --card-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  --hover-bg: #f7f1e7;
+}
+
+/* ==================== 全局样式 ==================== */
+html, body {
+  font-family: "Noto Serif SC", "Songti SC", "STSong", "PingFang SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  line-height: 1.7 !important;
+  color: var(--text-primary) !important;
+  background-color: var(--bg-primary) !important;
+  transition: background-color 0.3s ease, color 0.3s ease !important;
+}
+
+/* 重置默认链接颜色 */
+a {
+  color: var(--accent-color) !important;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-hover) !important;
+}
+
+/* ==================== 主题切换器 ==================== */
+.theme-switcher {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  gap: 6px;
+  padding: 6px;
+  background-color: var(--bg-secondary);
+  border-radius: 50px;
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.theme-btn {
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  background-color: transparent;
+  color: var(--text-secondary);
+}
+
+.theme-btn:hover {
+  background-color: var(--hover-bg);
+  transform: scale(1.1);
+}
+
+.theme-btn.active {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+.theme-btn.active:hover {
+  background-color: var(--accent-hover);
+}
+
+/* ==================== 页面标题 ==================== */
+.page-title {
+  font-family: "Noto Serif SC", "Songti SC", "STSong", serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.12em !important;
+  text-align: center !important;
+  font-size: 2.5rem !important;
+  margin-bottom: 1rem !important;
+  color: var(--text-primary) !important;
+}
+
+/* ==================== 英雄区域 ==================== */
+.hero-section {
+  text-align: center !important;
+  padding: 4rem 1rem !important;
+  background-color: var(--bg-secondary) !important;
+  color: var(--text-primary) !important;
+  margin: -2rem -2rem 2rem -2rem !important;
+  border-bottom: 1px solid var(--border-color) !important;
+  transition: background-color 0.3s ease, border-color 0.3s ease !important;
+}
+
+.hero-section h1 {
+  color: var(--text-primary) !important;
+  margin-bottom: 0.75rem !important;
+}
+
+.hero-subtitle {
+  font-size: 1.1rem !important;
+  color: var(--text-secondary) !important;
+  margin-bottom: 2rem !important;
+  font-weight: 400 !important;
+}
+
+.hero-links {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 1.5rem !important;
+  flex-wrap: wrap !important;
+}
+
+.hero-link {
+  color: var(--accent-color) !important;
+  text-decoration: none !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  transition: all 0.2s ease !important;
+}
+
+.hero-link:hover {
+  color: var(--accent-hover) !important;
+  text-decoration: underline !important;
+}
+
+/* ==================== 内容卡片 ==================== */
+.section-card {
+  background: var(--bg-secondary) !important;
+  border-radius: 18px !important;
+  padding: 2rem !important;
+  margin-bottom: 2rem !important;
+  box-shadow: var(--card-shadow) !important;
+  border: 1px solid var(--border-color) !important;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease !important;
+}
+
+.section-card h2 {
+  margin-top: 0 !important;
+  margin-bottom: 1.25rem !important;
+  color: var(--text-primary) !important;
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.04em !important;
+  font-family: "Noto Serif SC", "Songti SC", "STSong", serif !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.6rem !important;
+}
+
+/* ==================== 介绍列表 ==================== */
+.intro-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 1rem 0 !important;
+}
+
+.intro-list li {
+  padding: 1rem 0 !important;
+  border-bottom: 1px solid var(--hover-bg) !important;
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 0.875rem !important;
+  transition: border-color 0.3s ease !important;
+}
+
+.intro-list li:last-child {
+  border-bottom: none !important;
+}
+
+.intro-emoji {
+  font-size: 1.5rem !important;
+  line-height: 1 !important;
+  opacity: 0.8 !important;
+}
+
+/* ==================== 写作原则 ==================== */
+.writing-principle {
+  background-color: var(--hover-bg) !important;
+  padding: 1.25rem 1.5rem !important;
+  border-radius: 12px !important;
+  margin-top: 1.25rem !important;
+  color: var(--text-secondary) !important;
+  font-size: 0.95rem !important;
+  line-height: 1.8 !important;
+  transition: background-color 0.3s ease, color 0.3s ease !important;
+}
+
+/* ==================== 文章列表 ==================== */
+.post-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 1rem 0 !important;
+}
+
+.post-item {
+  padding: 1.1rem 0 !important;
+  border-bottom: 1px solid var(--hover-bg) !important;
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 1.25rem !important;
+  transition: background-color 0.2s ease, border-color 0.3s ease !important;
+  margin: 0 -0.75rem !important;
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
+  border-radius: 8px !important;
+}
+
+.post-item:hover {
+  background-color: var(--hover-bg) !important;
+}
+
+.post-item:last-child {
+  border-bottom: none !important;
+}
+
+.post-date {
+  color: var(--text-muted) !important;
+  font-size: 0.875rem !important;
+  white-space: nowrap !important;
+  min-width: 110px !important;
+  font-weight: 400 !important;
+  transition: color 0.3s ease !important;
+}
+
+.post-link {
+  color: var(--text-primary) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  font-size: 1.02rem !important;
+  transition: color 0.2s ease !important;
+}
+
+.post-link:hover {
+  color: var(--accent-color) !important;
+  text-decoration: none !important;
+}
+
+/* ==================== 精选文章 ==================== */
+.featured-post {
+  background-color: var(--hover-bg) !important;
+  padding: 1.5rem !important;
+  border-radius: 12px !important;
+  margin: 1.25rem 0 !important;
+  border-left: 3px solid var(--accent-color) !important;
+  transition: background-color 0.3s ease, border-color 0.3s ease !important;
+}
+
+.featured-post a {
+  color: var(--text-primary) !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease !important;
+}
+
+.featured-post a:hover {
+  color: var(--accent-color) !important;
+  text-decoration: none !important;
+}
+
+/* ==================== 留言板 ==================== */
+.message-board {
+  text-align: center !important;
+  margin-top: 2.5rem !important;
+  padding: 2rem !important;
+  background-color: var(--bg-secondary) !important;
+  border-radius: 18px !important;
+  box-shadow: var(--card-shadow) !important;
+  border: 1px solid var(--border-color) !important;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease !important;
+}
+
+.message-board a {
+  color: var(--accent-color) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  font-size: 1rem !important;
+  padding: 0.75rem 1.75rem !important;
+  border: 1px solid var(--accent-color) !important;
+  border-radius: 980px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  transition: all 0.2s ease !important;
+}
+
+.message-board a:hover {
+  background-color: var(--accent-color) !important;
+  color: white !important;
+}
+
+/* ==================== 页脚样式 ==================== */
 .site-footer-visitors {
-  margin-top: 12px;
-  text-align: center;
-  font-size: 12px;
-  opacity: 0.6;
+  margin-top: 12px !important;
+  text-align: center !important;
+  font-size: 12px !important;
+  opacity: 0.6 !important;
 }
 
 .site-footer-visitors img {
-  margin-left: 6px;
-  vertical-align: middle;
+  margin-left: 6px !important;
+  vertical-align: middle !important;
 }
+
 .site-footer-social {
-  margin-top: 8px;
-  text-align: center;
+  margin-top: 8px !important;
+  text-align: center !important;
 }
 
 .site-footer-social .social-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 13px;
-  opacity: 0.8;
-  text-decoration: none;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  font-size: 13px !important;
+  opacity: 0.8 !important;
+  text-decoration: none !important;
 }
 
 .site-footer-social .social-link:hover {
-  opacity: 1;
-  text-decoration: underline;
+  opacity: 1 !important;
+  text-decoration: underline !important;
 }
 
 .site-footer-social .social-icon {
-  font-size: 16px;
+  font-size: 16px !important;
 }
+
 .github-icon {
-  vertical-align: -2px;
-  margin-right: 4px;
+  vertical-align: -2px !important;
+  margin-right: 4px !important;
+}
+
+/* ==================== 响应式 ==================== */
+@media (max-width: 600px) {
+  .theme-switcher {
+    bottom: 15px;
+    right: 15px;
+    padding: 5px;
+    gap: 5px;
+  }
+
+  .theme-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 14px;
+  }
+
+  .hero-section {
+    margin: -1rem -1rem 1.5rem -1rem !important;
+    padding: 3rem 1rem !important;
+  }
+
+  .page-title {
+    font-size: 2rem !important;
+  }
+
+  .post-item {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 0.35rem !important;
+  }
+
+  .post-date {
+    min-width: auto !important;
+  }
+
+  .section-card {
+    padding: 1.5rem !important;
+  }
 }
