@@ -11,10 +11,21 @@
   font-weight: normal !important;
 }
 
-/* 响应式调整标题大小 */
+/* 导航链接装饰性字体 */
+.site-nav .page-link {
+  font-family: 'Party LET', 'UnifrakturMaguntia', 'Chalkduster', 'Brush Script MT', 'Comic Sans MS', cursive !important;
+  font-size: 1.2rem !important;
+  letter-spacing: 0.05em !important;
+  font-weight: normal !important;
+}
+
+/* 响应式调整标题和导航大小 */
 @media (max-width: 600px) {
   .site-title {
     font-size: 1.3rem !important;
+  }
+  .site-nav .page-link {
+    font-size: 1rem !important;
   }
 }
 
